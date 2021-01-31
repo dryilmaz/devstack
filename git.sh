@@ -7,3 +7,4 @@
 #EOF
 echo "sdfasjhdfjahsdgfjhagsdfhaf" > /testim.txt
 echo $test >> /testim.txt
+echo $test1 >> /testim.txt
