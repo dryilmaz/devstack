@@ -6,3 +6,4 @@
 #$testpassword
 #EOF
 echo "sdfasjhdfjahsdgfjhagsdfhaf" > /testim.txt
+echo $test >> /testim.txt
