@@ -1,7 +1,6 @@
 #!/bin/bash
 mkdir /fromgit
 echo "sdfasjhdfjahsdgfjhagsdfhaf" > /testim.txt
-echo $test >> /testim.txt
-echo $testpass >> /testim.txt
+echo $user >> /testim.txt
+echo $pass >> /testim.txt
 mkdir /$test
-mkdir /$testpass
